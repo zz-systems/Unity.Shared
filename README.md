@@ -2,6 +2,7 @@
 ### Unity.Shared Open source
 
 This is the repository for the open source common utilities used by "The Void" game available at [Google Play](https://play.google.com/store/apps/details?id=com.sphericalbrain.thevoid)
+
 It includes: 
 - GooglePlay Achievements abstraction layer
 - Cryptography abstraction layer
